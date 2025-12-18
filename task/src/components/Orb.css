@@ -1,0 +1,7 @@
+.orb-container {
+    position: relative;
+    z-index: 0;
+    width: 60%;
+    height: 100%;
+    margin:5.5rem ;
+}
