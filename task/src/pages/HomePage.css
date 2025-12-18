@@ -257,25 +257,7 @@
         font-size: 0.9rem;
     }
 
-    .hex-1 {
-        top: 15%;
-        left: 10%;
-    }
-
-    .hex-2 {
-        top: 25%;
-        right: 10%;
-    }
-
-    .hex-3 {
-        bottom: 35%;
-        left: 8%;
-    }
-
-    .hex-4 {
-        bottom: 35%;
-        right: 10%;
-    }
+    
 }
 
 /* Mobile (480px and below) */
@@ -336,8 +318,8 @@
     }
 
     .hex-1 {
-        top: 8%;
-        left: 5%;
+        top: 24%;
+        left: 15%;
     }
 
     .hex-2 {
@@ -346,13 +328,23 @@
     }
 
     .hex-3 {
-        bottom: 25%;
-        left: 5%;
+        top: 15%;
+        left: 25%;
     }
 
     .hex-4 {
-        bottom: 20%;
+        bottom: 35%;
         right: 5%;
+    }
+    .hex-5
+    {
+        top: 20%;
+    }
+    .hex-6
+    {
+        top: 8%;
+        right: 17%;
+
     }
 
     .home-page {
