@@ -100,12 +100,11 @@ CLI:
 
 Add screenshots under `task/public/screenshots/` and reference them here:
 
-```markdown
+
 
 <img width="1350" height="591" alt="image" src="https://github.com/user-attachments/assets/45529bb5-f5fe-4fa8-934f-5d9ba376d84b" />
 <img width="1352" height="595" alt="image" src="https://github.com/user-attachments/assets/618ad41c-0ee0-482a-8afc-d39b5a9f6ca5" />
 
-```
 
 If you prefer relative paths from the repo root, ensure the README image paths match your hosting setup.
 
