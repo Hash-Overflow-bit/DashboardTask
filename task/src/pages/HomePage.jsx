@@ -15,21 +15,27 @@ function HomePage() {
         {/* Hexagon Icons - 3 Left, 3 Right */}
         <div className="hexagon hex-1">
           <SiN8N className="hex-icon" />
+          <span className="hex-tooltip">Syncing connectors</span>
         </div>
         <div className="hexagon hex-2">
           <BsStars className="hex-icon" />
+          <span className="hex-tooltip">Data is loading</span>
         </div>
         <div className="hexagon hex-3">
           <FaInbox className="hex-icon" />
+          <span className="hex-tooltip">Queue processing</span>
         </div>
         <div className="hexagon hex-4">
           <SiN8N className="hex-icon" />
+          <span className="hex-tooltip">Cleaning records</span>
         </div>
         <div className="hexagon hex-5">
           <BsStars className="hex-icon" />
+          <span className="hex-tooltip">AI enrichment running</span>
         </div>
         <div className="hexagon hex-6">
           <FaInbox className="hex-icon" />
+          <span className="hex-tooltip">Export preparing</span>
         </div>
 
         <div className="content-wrapper">
